@@ -1,2 +1,2 @@
-# samtomashi.github.com
-Sam Tomashi portfolio
+# Portfolio
+## A showcase of my recent and interesting projects.
