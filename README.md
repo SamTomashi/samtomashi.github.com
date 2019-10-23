@@ -1,11 +1,16 @@
 # PROJECT NAME
 
-## Portfolio
+Portfolio
 
 # DESCRIPTION
 
-## A showcase of my recent and interesting projects.
+A showcase of my recent and interesting projects.
+
+# TECHNOLOGIES USED
+
+- HTML
+- Bootstrap
 
 # LICENSE
 
-## MIT License
+MIT License
