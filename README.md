@@ -1,20 +1,20 @@
-# PROJECT NAME
+## PROJECT NAME
 
 Portfolio
 
-# DESCRIPTION
+## DESCRIPTION
 
 A showcase of my recent and interesting projects.
 
-# TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
 - HTML
 - Bootstrap
 
-# LIVE LINK
+## LIVE LINK
 
 [Sam Tomashi](https://samtomashi.github.io)
 
-# LICENSE
+## LICENSE
 
 MIT License
