@@ -13,7 +13,7 @@ A showcase of my recent and interesting projects.
 
 # LIVE LINK
 
-`[Sam Tomashi](https://samtomashi.github.io)`
+[Sam Tomashi](https://samtomashi.github.io)
 
 # LICENSE
 
